@@ -89,11 +89,11 @@ while True:
 # Kullanıcıdan alınan cevapların ortalama puanına göre kategori belirleme
 # Kullanıcının 15 soruya verdiği cevaplar
 cevaplar = [
-    [1, 2, 1, 1, 2, 1, 2, 2, 1, 2, 1, 2, 1, 1, 2],  # Örnek 1
-    [2, 2, 3, 2, 3, 3, 2, 2, 3, 3, 3, 2, 3, 3, 3],  # Örnek 2
-    [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3],  # Örnek 3
-    [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],  # Örnek 4
-    [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]   # Örnek 5
+    [1, 2, 1, 1, 2, 1, 2, 2, 1, 2, 1, 2, 1, 1, 2],  # Düşük
+    [2, 2, 3, 2, 3, 3, 2, 2, 3, 3, 3, 2, 3, 3, 3],  # orta Düşük
+    [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3],  # Orta
+    [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],  # Orta yüksek
+    [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]   # Yüksek
 ]
 
 # Puan aralıklarına göre kategori belirleme fonksiyonu
